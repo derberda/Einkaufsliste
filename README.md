@@ -1,6 +1,6 @@
 # Einkaufsliste
 
-##Lebenslauf
+## Lebenslauf
 
 ![Profilbild](https://github.com/derberda/Einkaufsliste/blob/local/Profilbild.png)
 
